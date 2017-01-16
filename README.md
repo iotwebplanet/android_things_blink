@@ -2,7 +2,7 @@
 How to work wit Android Things with Raspberry Pi-3 
 https://iotwebplanet.com/startup_iot_kit/Android_Things_Developer_Kit purchase from here 
 Start coding....
-you will get 
+you will get <br>
 1 ×RASPBERRY
 1 ×8 GB MICRO SD CARD (DEVELOPMENT IMAGE PRE LOADED)
 6 ×FEMALE TO FEMALE DUPONT CABLE
